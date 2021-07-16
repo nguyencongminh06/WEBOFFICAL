@@ -8,7 +8,9 @@
 <meta charset="utf-8">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
 <!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="./css/test.css">
 <link rel="stylesheet" type="text/css"
 	href="./vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -16,7 +18,7 @@
 	href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
 	integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
 	crossorigin="anonymous">
-<link rel="stylesheet" href="./css/stylehome.css">
+
 <title>HOME</title>
 </head>
 <body>
@@ -129,6 +131,8 @@
 		integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
 		crossorigin="anonymous"></script>
 	<script src="./js/javascript.js" crossorigin="anonymous"></script>
+	<script type="jquery-1.10.2.min.js"></script>
+<script type="js/jqzoom.js"></script>
 </body>
 </html>
 

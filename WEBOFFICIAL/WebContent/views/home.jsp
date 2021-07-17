@@ -88,7 +88,7 @@
 									<div class="card-body">
 										<h4 class="card-title">
 											<a href="detail?id=${product.id}"
-												title="View Product">test ${product.productname}</a>
+												title="View Product">${product.productname}</a>
 										</h4>
 										<p class="card-text show_txt">${product.price}VND</p>
 										<div class="row">
